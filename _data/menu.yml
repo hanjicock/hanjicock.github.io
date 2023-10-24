@@ -28,9 +28,9 @@ entries:
   - title: rss
     url: feed.xml
   
-  - title: another list
+  - title: ONE THING
     entries:
-      - title: with subitems
+      - title: 20231101 English
         entries:
           - title: with subsubitems
           - title: example page
