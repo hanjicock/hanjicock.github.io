@@ -4,12 +4,10 @@
 entries:
   - title: hanjieun
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
       - title: github
         url: https://github.com/hanjicock
       - title: notion
         url: 
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: all posts
     post_list:
@@ -25,9 +23,10 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
-  - title: Web
-    post_list:
-      category: Spring
+  - title: WEB
+    entries:
+      - title: Spring
+      
   
   - title: ONE THING
     entries:
