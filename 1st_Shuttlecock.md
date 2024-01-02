@@ -16,8 +16,10 @@ category: goal
 2. Organizing notes after taking a lecture
 
 ### growth
+- taking all lessons in swimming
+
 ### amusement
-- buy a gift for myself
+- buying a gift for myself
 
 ### family
 ### relationship
