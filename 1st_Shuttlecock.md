@@ -12,6 +12,7 @@ category: goal
 
 ## a life map
 ### work
+1. Studying English for 5 hours every day for 3 months
 ### growth
 ### amusement
 ### family
@@ -19,7 +20,7 @@ category: goal
 
 ## bucket list
 ## routine
-
+- 12:00 : watching '널널한 개발자' youtube  on my laptop with Americano 
 ## habit
 
 ## a road map
