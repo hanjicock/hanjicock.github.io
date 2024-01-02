@@ -3,14 +3,6 @@ layout: post
 category: goal
 ---
 
-## 
-- [self-declared](#self-declared)
-- [a life map](#a-life-map)
-- [bucket list](#bucket-list)
-- [routine](#routine)
-- [habit](#habit)
-- [a road map](#a-road-map)
-
 ## [self-declared](#self-declared)
 - **Learning what God is like through the Bible**
 - **Being a developer without difficulty in meeting in English in Berlin**
