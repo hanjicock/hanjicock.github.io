@@ -1,35 +1,31 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-entries:
-  - title: hanjieun
-    entries:
-      - title: github
-        url: https://github.com/hanjicock
-
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+#entries:
+#  - title: hanjieun
+#    entries:
+#      - title: github
+#        url: https://github.com/hanjicock
+#
+#  - title: all posts
+#    post_list:
+#      limit: 5
+#      show_more: true
+#      show_more_text: See archive...
+#      show_more_url: archive.html
+#
+#  - title: posts by category
+#    post_list:
+#      category: example2
+#      show_more: true
+#      show_more_text: See more posts...
+#      show_more_url: example2-archive.html
 
   - title: 1.goal
     post_list:
       category: goal
       show_more: true
 
-
-  - title: ONE THING
-    entries:
-      - title: 20231101 English
   - title: PRO TIP
     entries:
       - title: to edit this menu, edit _data/menu.yml file
