@@ -12,15 +12,20 @@ category: goal
 
 ## a life map
 ### work
-1. Studying English for 5 hours every day for 3 months
+1. Studying English for 3 hours every day for 3 months
+2. Organizing notes after taking a lecture
+
 ### growth
 ### amusement
+- buy a gift for myself
+
 ### family
 ### relationship
 
 ## bucket list
 ## routine
-- 12:00 : watching '널널한 개발자' youtube  on my laptop with Americano 
+- MON-FRI 12:00 : watching '널널한 개발자' youtube  on my laptop with Americano 
+- SUN
 ## habit
-
+- watching OFFICE on the way home
 ## a road map
