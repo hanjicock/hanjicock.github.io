@@ -23,7 +23,7 @@ entries:
 
   - title: 1.goal
     post_list:
-      category: 1-1.self-declared
+      category: goal
       show_more: true
 
 
