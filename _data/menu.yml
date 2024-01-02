@@ -6,8 +6,6 @@ entries:
     entries:
       - title: github
         url: https://github.com/hanjicock
-      - title: notion
-        url: 
 
   - title: all posts
     post_list:
@@ -23,11 +21,12 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
-  - title: WEB
-    entries:
-      - title: Spring
-      
-  
+  - title: 1.goal
+    post_list:
+      category: 1-1.self-declared
+      show_more: true
+
+
   - title: ONE THING
     entries:
       - title: 20231101 English
