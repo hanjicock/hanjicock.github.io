@@ -1,15 +1,15 @@
 ---
-layout: default
+layout: post
+category: goal
 ---
 
-{%-include back_link.html-%}
+## self-declared
 
-<article>
-    <p class="post-meta">
-        <time datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
-    </p>
 
-    <h1>{{ page.title }}</h1>
+## a life map
+- work
+- growth
+- amusement
+- family
+- relationship
 
-    {{ content }}
-</article>
