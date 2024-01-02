@@ -3,7 +3,7 @@ layout: post
 category: goal
 ---
 
-
+## 
 - [self-declared](#self-declared)
 - [a life map](#a-life-map)
 - [bucket list](#bucket-list)
