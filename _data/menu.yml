@@ -21,11 +21,11 @@ entries:
 #      show_more_text: See more posts...
 #      show_more_url: example2-archive.html
 
-  - title: 1.goal
+  - title: 2024 1st Shuttlecock
     post_list:
       category: goal
       show_more: true
 
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+#  - title: PRO TIP
+#    entries:
+#      - title: to edit this menu, edit _data/menu.yml file
