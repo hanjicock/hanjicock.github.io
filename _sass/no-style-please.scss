@@ -20,12 +20,12 @@ body[a="dark"] { @include dark-appearance; }
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-html, body { background: white; }
+html, body { background: black; }
 
 html { height: 100%; }
 
 body {
-  color: rebeccapurple;
+  color: #00bcd4;
   font-family: Handlee, sans-serif;
   font-size: 16px;
   line-height: 1.4;
@@ -100,6 +100,6 @@ img {
 
 a {
   text-decoration: none;
-  color: lawngreen;
+  color: lavender;
   font-weight: bolder;
 }
